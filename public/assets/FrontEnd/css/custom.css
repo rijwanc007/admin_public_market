@@ -1,0 +1,25 @@
+/*Decoration For All Start*/
+a{
+    text-decoration: none;
+}
+/*Decoration For All Ends*/
+
+/*NavBar Start*/
+.pa-main-header{
+    position: fixed;
+    width: 100%;
+}
+ul.pa-submenu{
+    padding: 0!important;
+}
+
+.pa-submenu li{
+    width: 100%;
+padding: .5rem 3rem .5rem 1rem ;
+}
+
+.pa-nav-icon{
+    color:#ffffff;
+    font-size: 17px;
+}
+/*NavBar End*/
